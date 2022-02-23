@@ -1,10 +1,12 @@
-# YouTube-thumbnail-dataset
+# YouTube thumbnail dataset
+
+![image](./.github/kaggle.jpg)
 
 ### Find it on:
 
 [<img src='https://www.kaggle.com/static/images/site-logo.svg' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things)
 
-The most versatile dataset of YouTube thumbnails.
+The most versatile dataset of YouTube thumbnails. This dataset goes hand in hand with the [YouTubers-Sayting-things](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) dataset. Same set of video ids were used to generate this dataset, and I will be updating both at once.
 
 ## Genres and channels
 
