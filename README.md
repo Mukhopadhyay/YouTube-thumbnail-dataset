@@ -4,9 +4,11 @@
 
 ### Find it on:
 
-[<img src='https://www.kaggle.com/static/images/site-logo.svg' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things)
+[<img src='https://www.kaggle.com/static/images/site-logo.svg' alt='kaggle' height='40'>](https://www.kaggle.com/datasets/praneshmukhopadhyay/youtube-thumbnail-dataset)
 
 The most versatile dataset of YouTube thumbnails. This dataset goes hand in hand with the [YouTubers-Sayting-things](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) dataset. Same set of video ids were used to generate this dataset, and I will be updating both at once.
+
+Now, obviously not all videos have a set thumbnail. In those cases, YouTube assigns a random frame as the subtitle, Only for those video Ids, we don't have the image.
 
 ## Genres and channels
 
